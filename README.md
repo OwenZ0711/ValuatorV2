@@ -1,3 +1,9 @@
 # ValuatorV2
 
-I just wanna try value companies thats all
+evaluate factor-based portfolio performance in overlaps of market regimes.
+
+Try out regime predictions. 
+
+I want to use Markov Autoregressive + jump model.
+
+potential: continuous regime???
